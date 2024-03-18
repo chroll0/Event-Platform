@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![web-project08](https://github.com/chroll0/Event-Platform/assets/89222386/71f85a35-9537-45a6-9408-f464e55d0b20)
 
-## Getting Started
+# EventHub 🎉
 
-First, run the development server:
+Live Link: https://event-platform-nu-lovat.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to the EventHub GitHub repository! Our platform allows you to effortlessly create and showcase your events while seamlessly accessing tickets to the hottest happenings in the community. Join us in crafting memorable experiences and connecting through shared passions. Let's make every event a highlight! 🌟🎟️ #EventHub #CommunityCelebration
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+EventHub is your go-to platform for creating, discovering, and attending exciting events in your community. Whether you're an event organizer or an attendee, our platform offers a seamless experience for all users. Here's what you can expect:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Effortlessly create and showcase your events.
+- Access tickets to the hottest happenings in the community.
+- Connect with like-minded individuals and share passions.
 
-## Learn More
+## Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+EventHub utilizes the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- Clerck
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## How to Run
 
-## Deploy on Vercel
+1. Clone or download the repository to your local machine.
+2. Install dependencies by running `npm install`.
+3. Start the development server with `npm run dev`.
+4. Access the platform in your browser to start creating and discovering events.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for choosing EventHub. Let's make every event a highlight together! If you have any questions or suggestions, feel free to reach out.
